@@ -1,0 +1,18 @@
+Django>=4.2,<5.0
+gunicorn
+whitenoise
+psycopg2-binary
+dj-database-url
+python-dotenv
+djangorestframework
+Pillow
+django-crispy-forms
+django-cors-headers
+# Optional/dev tools:
+# django-environ
+# coverage
+# pytest-django
+# django-debug-toolbar
+# black
+# isort
+# flake8
