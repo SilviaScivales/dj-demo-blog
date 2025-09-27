@@ -2,7 +2,6 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-from waitress import serve
 
 
 def main():
@@ -20,4 +19,4 @@ def main():
 
 
 if __name__ == "__main__":
-    serve(main, host="0.0.0.0", port=8000)
+    main()
