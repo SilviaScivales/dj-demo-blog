@@ -11,7 +11,7 @@ A simple Django web app that allows users to view and create blog posts. Perfect
 ## 🚀 Live Demo
 Check it out here 👉 [dj-demo-blog](https://dj-demo-blog.onrender.com/)
 
-![App Screenshot](<img width="425" height="225" alt="image" src="https://github.com/user-attachments/assets/0e1cd116-2c8e-4923-8049-363d3a2e50e5" />)
+![App Screenshot](https://github.com/SilviaScivales/dj-demo-blog/blob/8052d296d06315889af4adf6cab704fbf4e5ff60/dj-demo-blog%20screenshot.png)
 
 ## 🛠️ Technologies Used
 - Python
